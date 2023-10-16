@@ -1,10 +1,9 @@
 [package]
-name = "openapi"
+name = "argo-workflows.rs"
 version = "0.0.1"
-authors = ["OpenAPI Generator team and contributors"]
+authors = ["azjkjensen@gmail.com"]
 description = "Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. For more information, please see https://argoproj.github.io/argo-workflows/"
-# Override this license by providing a License Object in the OpenAPI.
-license = "Unlicense"
+license = "Apache-2.0"
 edition = "2018"
 
 [dependencies]
