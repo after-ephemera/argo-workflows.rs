@@ -1,6 +1,6 @@
 [package]
 name = "argo-workflows-rs"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["azjkjensen@gmail.com"]
 description = "Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. For more information, please see https://argoproj.github.io/argo-workflows/"
 repository = "https://github.com/after-ephemera/argo-workflows.rs"
